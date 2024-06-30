@@ -9,6 +9,6 @@ This game is really interesting because it generates a random number within a sp
 <hr>
 <h1>Thank you</h1>
 
-the URL for my project is: 
+the URL for my project is: https://github.com/Interstellar2424/Guess-The-Number-Game
 
 Thank you for playing my game.
