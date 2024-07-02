@@ -2,7 +2,8 @@
 import random
 
 # Title 
-mode = input("Guess The Number Game (either say yes or ok): ")
+print("Guess The Number Game -- A Python project by Interstellar2424")
+mode = input("(either say yes or ok): ")
 
 if mode == "yes":
     num1 = random.randint(0,10)
